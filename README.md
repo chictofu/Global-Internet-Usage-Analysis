@@ -8,9 +8,9 @@ This repository offers an in-depth data analysis of global internet usage trends
 
 ### Explain how the project relates to the industry you selected.
 
-1. Does Internet access and tax revenue drive down corruption?
-2. Internet usage has something to Carbon emissions?
-3. Does Internet usage drives electricity consumption and corruption?
+1. Does Internet access and tax revenue worldwide?
+2. Does Internet usage has something to do with Carbon emissions?
+3. Does Internet usage drive electricity consumption?
 
 ## Data Source
 https://www.kaggle.com/datasets/nicolasgonzalezmunoz/world-bank-world-development-indicators
